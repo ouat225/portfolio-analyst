@@ -189,7 +189,7 @@ layout: null
 </div>
 
 <div class="contact-section">
-  <h2 class="section-title">Discutons de vos enjeux Data</h2>
+  <h2 class="section-title">Discutons de vos enjeux</h2>
   <div class="section-line"></div>
   <p>Besoin d'un regard analytique sur vos données pour transformer vos chiffres en décisions ?</p>
   
