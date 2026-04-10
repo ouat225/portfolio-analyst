@@ -82,11 +82,11 @@ layout: null
   <div class="profile-text">
     <p class="profile-title">Minan Jean-Marc OUATTARA</p>
     <p class="profile-subtitle">Data Analyst</p>
-    <p>Je suis un data analyst spécialisé dans la transformation de données complexes en <strong>décisions stratégiques.</p>
-    <p>Grâce à une solide formation en analyse économique, j'accompagne les organisations dans leur prise de décision en identifiant les leviers de croissance et les tendances de marché cachées. Mon approche combine la rigueur statistique et la clarté visuelle pour rendre la donnée accessible à tous les niveaux de l'entreprise.</p>
+    <p>Je suis un data analyst doté d'une solide formation en économétrie et en analyse économique.</p>
+    <p>J'accompagne les organisations dans leur prise de décision en identifiant les leviers de croissance et les tendances de marché cachées. Mon approche combine la rigueur statistique et la clarté visuelle pour rendre la donnée accessible à tous les niveaux de l'entreprise.</p>
     <p>Je me concentre sur la création de tableaux de bord à fort impact, le suivi d'indicateurs de performance (KPI) et l'analyse exploratoire avancée. Je couvre l’ensemble du processus analytique, depuis l’extraction et la préparation des données (SQL, Python) jusqu’à la présentation des résultats à travers des supports interactifs (Streamlit, Power BI).</p>
     <p><strong>Actuellement en Master 2 Statistiques pour l'Évaluation et la Prévison, je recherche un stage de fin d’études pour mettre mes compétences en Business Intelligence au service de votre stratégie data.</strong></p>
-    <div class="tech-stack"><strong>Expertise Data :</strong> SQL, Power BI, Python (Pandas, Plotly, Streamlit), R, Statistiques décisionnelles, Excel (VBA).</div>
+    <div class="tech-stack"><strong>Stack Technique :</strong> SQL, Power BI, Python (Pandas, Plotly, Streamlit), R, Statistiques décisionnelles, Excel (VBA).</div>
   </div>
 </div>
 
@@ -134,13 +134,13 @@ layout: null
 
 </div>
 
-<h2 class="section-title">Études</h2>
+<h2 class="section-title">Mon Parcours</h2>
 <div class="section-line"></div>
 
 <div class="background-grid">
   
   <div class="timeline-col">
-    <h3>Formation</h3>
+    <h3>Études</h3>
     
     <div class="timeline-item">
       <div class="timeline-date">2024 - 2026</div>
