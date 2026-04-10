@@ -10,15 +10,16 @@ layout: null
   /* Section Profil */
   .profile-container { display: flex; gap: 40px; background: white; padding: 40px; border-radius: 12px; box-shadow: 0 4px 6px rgba(0,0,0,0.05); margin-bottom: 50px; align-items: center; }
   
+  /* --- CORRECTION DE L'IMAGE DE PROFIL (CERCLE PARFAIT ET PAS DE BANDES NOIRES) --- */
   .profile-image {
-    flex: 0 0 200px;
+    flex: 0 0 200px; /* Non-flexible, largeur fixe de 200px */
     width: 200px;
     height: 200px;
-    overflow: hidden;
-    border-radius: 50%;
-    box-shadow: 0 4px 8px rgba(0,0,0,0.1);
-    border: 4px solid #fff;
-    display: flex;
+    overflow: hidden; /* Masque tout ce qui dépasse du cercle */
+    border-radius: 50%; /* Cercle parfait */
+    box-shadow: 0 4px 8px rgba(0,0,0,0.1); /* Ombre douce */
+    border: 4px solid #fff; /* Anneau blanc élégant */
+    display: flex; /* Centrage de l'image si elle est petite */
     justify-content: center;
     align-items: center;
   }
@@ -26,8 +27,9 @@ layout: null
     width: 100%;
     height: 100%;
     object-fit: cover; 
-    object-position: center 15%;
+    object-position: center 15%; /* Magie : indique au site de viser le "haut" de l'image là où se trouve le visage */
   }
+  /* --------------------------------------------------------------------------------- */
 
   .profile-text { flex: 2; }
   .profile-title { font-size: 1.5em; color: #28a745; font-weight: bold; margin-bottom: 5px; margin-top: 0;}
@@ -82,13 +84,13 @@ layout: null
     <p class="profile-subtitle">Data Analyst</p>
     <p>Je suis un data analyst spécialisé dans la transformation de données complexes en <strong>décisions stratégiques.</p>
     <p>Grâce à une solide formation en analyse économique, j'accompagne les organisations dans leur prise de décision en identifiant les leviers de croissance et les tendances de marché cachées. Mon approche combine la rigueur statistique et la clarté visuelle pour rendre la donnée accessible à tous les niveaux de l'entreprise.</p>
-    <p>Je me concentre sur la création de tableaux de bord à fort impact, le suivi d'indicateurs de performance (KPI) et l'analyse exploratoire avancée. Je maîtrise l'intégralité de la chaîne de valeur de l'analyse : de l'extraction et le nettoyage des données (SQL, Python) à la communication des résultats via des supports interactifs (Streamlit, Power BI).</p>
+    <p>Je me concentre sur la création de tableaux de bord à fort impact, le suivi d'indicateurs de performance (KPI) et l'analyse exploratoire avancée. Je couvre l’ensemble du processus analytique, depuis l’extraction et la préparation des données (SQL, Python) jusqu’à la présentation des résultats à travers des supports interactifs (Streamlit, Power BI).</p>
     <p><strong>Actuellement en Master 2 Statistiques pour l'Évaluation et la Prévison, je recherche un stage de fin d’études pour mettre mes compétences en Business Intelligence au service de votre stratégie data.</strong></p>
     <div class="tech-stack"><strong>Expertise Data :</strong> SQL, Power BI, Python (Pandas, Plotly, Streamlit), R, Statistiques décisionnelles, Excel (VBA).</div>
   </div>
 </div>
 
-<h2 class="section-title">Analyses & Tableaux de Bord</h2>
+<h2 class="section-title">Projets</h2>
 <div class="section-line"></div>
 <p style="text-align: center; margin-bottom: 40px; color: #666;">Focus sur la visualisation de données, le suivi de performance et l'interprétation métier.</p>
 
