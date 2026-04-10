@@ -70,7 +70,7 @@ layout: null
   }
 </style>
 
-<h1 class="section-title">Profil Analyste</h1>
+<h1 class="section-title">Profil Professionel</h1>
 <div class="section-line"></div>
 
 <div class="profile-container">
@@ -80,10 +80,10 @@ layout: null
   <div class="profile-text">
     <p class="profile-title">Minan Jean-Marc OUATTARA</p>
     <p class="profile-subtitle">Data Analyst</p>
-    <p>Je suis un data analyst spécialisé dans la transformation de données complexes en <strong>insights stratégiques actionnables</strong>.</p>
-    <p>Fort d'une solide formation en analyse économique, j'accompagne les organisations dans leur prise de décision en identifiant les leviers de croissance et les tendances de marché cachées. Mon approche combine la rigueur statistique et la clarté visuelle pour rendre la donnée accessible à tous les niveaux de l'entreprise.</p>
+    <p>Je suis un data analyst spécialisé dans la transformation de données complexes en <strong>décisions stratégiques.</p>
+    <p>Grâce à une solide formation en analyse économique, j'accompagne les organisations dans leur prise de décision en identifiant les leviers de croissance et les tendances de marché cachées. Mon approche combine la rigueur statistique et la clarté visuelle pour rendre la donnée accessible à tous les niveaux de l'entreprise.</p>
     <p>Je me concentre sur la création de tableaux de bord à fort impact, le suivi d'indicateurs de performance (KPI) et l'analyse exploratoire avancée. Je maîtrise l'intégralité de la chaîne de valeur de l'analyse : de l'extraction et le nettoyage des données (SQL, Python) à la communication des résultats via des supports interactifs (Streamlit, Power BI).</p>
-    <p><strong>Actuellement en Master 2 Statistiques, je recherche un stage de fin d’études pour mettre mes compétences en Business Intelligence au service de votre stratégie data.</strong></p>
+    <p><strong>Actuellement en Master 2 Statistiques pour l'Évaluation et la Prévison, je recherche un stage de fin d’études pour mettre mes compétences en Business Intelligence au service de votre stratégie data.</strong></p>
     <div class="tech-stack"><strong>Expertise Data :</strong> SQL, Power BI, Python (Pandas, Plotly, Streamlit), R, Statistiques décisionnelles, Excel (VBA).</div>
   </div>
 </div>
@@ -107,7 +107,7 @@ layout: null
   </div>
 
   <div class="project-card">
-    <h3 class="project-title">Observatoire Immobilier Parisien</h3>
+    <h3 class="project-title">MaisonEstimateur</h3>
     <div class="project-desc">
       <strong>Analyse exploratoire et visuelle du marché immobilier (10 000 logements).</strong><br><br>
       Missions : Analyse des corrélations de prix, détection des anomalies de marché et développement d'un outil interactif de segmentation pour faciliter l'estimation et la compréhension des dynamiques urbaines.
@@ -119,7 +119,7 @@ layout: null
   </div>
 
   <div class="project-card">
-    <h3 class="project-title">Visualisation de Dynamiques Simulées</h3>
+    <h3 class="project-title">Écosystème Wyverne</h3>
     <div class="project-desc">
       <strong>Interface de pilotage pour la simulation d'écosystèmes complexes.</strong><br><br>
       Missions : Traduction de modèles mathématiques en graphiques temporels intuitifs. Création d'un tableau de bord de monitoring permettant de suivre l'évolution des populations et d'anticiper les ruptures d'équilibre.
@@ -132,7 +132,7 @@ layout: null
 
 </div>
 
-<h2 class="section-title">Parcours & Expériences</h2>
+<h2 class="section-title">Études</h2>
 <div class="section-line"></div>
 
 <div class="background-grid">
@@ -142,19 +142,19 @@ layout: null
     
     <div class="timeline-item">
       <div class="timeline-date">2024 - 2026</div>
-      <div class="timeline-title">Master 2 Statistiques (Prévision & Évaluation)</div>
+      <div class="timeline-title">Master Statistiques pour l'Évaluation et la Prévison</div>
       <div class="timeline-subtitle">Université de Reims Champagne-Ardenne</div>
     </div>
     
     <div class="timeline-item">
       <div class="timeline-date">2021 - 2024</div>
-      <div class="timeline-title">Licence Économie, parcours Analyse Économique</div>
+      <div class="timeline-title">Licence Économie et Gestion, parcours Analyse Économique</div>
       <div class="timeline-subtitle">Université de Reims Champagne-Ardenne</div>
     </div>
   </div>
 
   <div class="timeline-col">
-    <h3>Expérience en Analyse</h3>
+    <h3>Expériences Professionnelles</h3>
     
     <div class="timeline-item">
       <div class="timeline-date">01/2024 - 03/2024</div>
