@@ -103,7 +103,7 @@ layout: null
       Missions : Analyse des facteurs clés de succès offensif, identification des tendances historiques et création d'un outil de visualisation permettant aux décideurs d'explorer les probabilités de réussite par contexte de jeu.
     </div>
     <div class="btn-group">
-      <a href="https://github.com/ouat225/the-redzone-predictor" class="btn" target="_blank">Consulter l'Analyse</a>
+      <a href="https://github.com/ouat225/the-redzone-predictor" class="btn" target="_blank">Repo GitHub</a>
     </div>
     <div class="project-tools">Outils : Streamlit, Python (Pandas), Analyse de KPI.</div>
   </div>
@@ -115,7 +115,7 @@ layout: null
       Missions : Analyse des corrélations de prix, détection des anomalies de marché et développement d'un outil interactif de segmentation pour faciliter l'estimation et la compréhension des dynamiques urbaines.
     </div>
     <div class="btn-group">
-      <a href="https://github.com/ouat225/management-de-projets-digitaux" class="btn" target="_blank">Voir le Dashboard</a>
+      <a href="https://github.com/ouat225/management-de-projets-digitaux" class="btn" target="_blank">Repo GitHub</a>
     </div>
     <div class="project-tools">Outils : Python, Pandas, Plotly, Visualisation de données.</div>
   </div>
@@ -127,7 +127,7 @@ layout: null
       Missions : Traduction de modèles mathématiques en graphiques temporels intuitifs. Création d'un tableau de bord de monitoring permettant de suivre l'évolution des populations et d'anticiper les ruptures d'équilibre.
     </div>
     <div class="btn-group">
-      <a href="https://github.com/ouat225/ecosysteme-des-donnees" class="btn" target="_blank">Détails du Projet</a>
+      <a href="https://github.com/ouat225/ecosysteme-des-donnees" class="btn" target="_blank">Repo GitHub</a>
     </div>
     <div class="project-tools">Outils : NumPy, Streamlit, Reporting interactif.</div>
   </div>
@@ -139,7 +139,7 @@ layout: null
       Missions : Analyse de la densité du trafic par station, identification des points de congestion et modélisation des temps de parcours pour l'optimisation de l'expérience usager et de la fluidité du réseau.
     </div>
     <div class="btn-group">
-      <a href="https://github.com/ouat225/metro" class="btn" target="_blank">Explorer le Réseau</a>
+      <a href="https://github.com/ouat225/metro" class="btn" target="_blank">Repo GitHub</a>
     </div>
     <div class="project-tools">Outils : Python, Pandas, NetworkX (Analyse de graphes), Matplotlib.</div>
   </div>
