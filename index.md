@@ -132,6 +132,18 @@ layout: null
     <div class="project-tools">Outils : NumPy, Streamlit, Reporting interactif.</div>
   </div>
 
+  <div class="project-card">
+    <h3 class="project-title">Smart Metro</h3>
+    <div class="project-desc">
+      <strong>Étude de l'efficacité et de la connectivité d'un réseau de transport urbain.</strong><br><br>
+      Missions : Analyse de la densité du trafic par station, identification des points de congestion et modélisation des temps de parcours pour l'optimisation de l'expérience usager et de la fluidité du réseau.
+    </div>
+    <div class="btn-group">
+      <a href="https://github.com/ouat225/metro" class="btn" target="_blank">Explorer le Réseau</a>
+    </div>
+    <div class="project-tools">Outils : Python, Pandas, NetworkX (Analyse de graphes), Matplotlib.</div>
+  </div>
+
 </div>
 
 <h2 class="section-title">Mon Parcours</h2>
