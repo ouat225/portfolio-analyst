@@ -190,7 +190,7 @@ layout: null
     
     <div class="timeline-item">
       <div class="timeline-date">06/2020 - 08/2020</div>
-      <div class="timeline-title">Stagiaire Comptabilité / Reporting</div>
+      <div class="timeline-title">Assistant comptable (Stage)</div>
       <div class="timeline-subtitle">Ambassade de Côte d'Ivoire, Addis-Abeba</div>
       <div class="timeline-desc">• Fiabilisation des bases de données et préparation des rapports financiers.</div>
       <div class="timeline-tools">Outil : Excel (Reporting)</div>
