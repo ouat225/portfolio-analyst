@@ -172,7 +172,7 @@ layout: null
     
     <div class="timeline-item">
       <div class="timeline-date">01/2024 - 03/2024</div>
-      <div class="timeline-title">Analyste de Marché (Stage)</div>
+      <div class="timeline-title">Analyste de marché (Stage)</div>
       <div class="timeline-subtitle">ISLT, Troyes</div>
       <div class="timeline-desc">• Réalisation d'études de marché pour orienter la stratégie commerciale.</div>
       <div class="timeline-desc">• Conception de rapports de synthèse basés sur la veille concurrentielle.</div>
@@ -181,7 +181,7 @@ layout: null
     
     <div class="timeline-item">
       <div class="timeline-date">06/2022 - 09/2022</div>
-      <div class="timeline-title">E-commerce Analyste (Stage)</div>
+      <div class="timeline-title">Analyste e-commerce (Stage)</div>
       <div class="timeline-subtitle">DASH, Abidjan</div>
       <div class="timeline-desc">• Analyse des comportements clients pour optimiser les performances marketing.</div>
       <div class="timeline-desc">• Mise en place et suivi de KPI pour le pilotage de la croissance digitale.</div>
