@@ -171,7 +171,7 @@ layout: null
     <h3>Expériences Professionnelles</h3>
     
     <div class="timeline-item">
-      <div class="timeline-date">05/2026 - Présent</div>
+      <div class="timeline-date">05/2026 - 08/2026</div>
       <div class="timeline-title">Analyste de données et droits de diffusion (Stage)</div>
       <div class="timeline-subtitle">Groupe TF1, Boulogne-Billancourt</div>
       <div class="timeline-desc">• Conception de tableaux de bord interactifs (Power BI / Power Query) pour l'automatisation du suivi des droits et l'analyse des besoins métiers.</div>
