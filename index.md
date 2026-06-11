@@ -85,7 +85,7 @@ layout: null
     <p>Je suis un data analyst doté d'une solide formation en économétrie et en analyse économique.</p>
     <p>J'accompagne les organisations dans leur prise de décision en identifiant les leviers de croissance et les tendances de marché cachées. Mon approche combine la rigueur statistique et la clarté visuelle pour rendre la donnée accessible à tous les niveaux de l'entreprise.</p>
     <p>Je me concentre sur la création de tableaux de bord à fort impact, le suivi d'indicateurs de performance (KPI) et l'analyse exploratoire avancée. Je couvre l’ensemble du processus analytique, depuis l’extraction et la préparation des données (SQL, Python) jusqu’à la présentation des résultats à travers des supports interactifs (Streamlit, Power BI).</p>
-    <p><strong>Actuellement en Master 2 Statistiques pour l'Évaluation et la Prévison, je recherche un stage de fin d’études pour mettre mes compétences en Business Intelligence au service de votre stratégie data.</strong></p>
+    <p><strong>Actuellement en stage au sein de TF1 (Boulogne-Billancourt) jusqu'en août, je recherche une école afin de basculer en alternance (bac+5) dès septembre 2026 chez eux.</strong></p>
     <div class="tech-stack"><strong>Stack Technique :</strong> SQL, Power BI, Python (Pandas, Plotly, Streamlit), R, Statistiques décisionnelles, Excel (VBA).</div>
   </div>
 </div>
