@@ -171,6 +171,16 @@ layout: null
     <h3>Expériences Professionnelles</h3>
     
     <div class="timeline-item">
+      <div class="timeline-date">05/2026 - Présent</div>
+      <div class="timeline-title">Analyste de données et droits de diffusion (Stage)</div>
+      <div class="timeline-subtitle">Groupe TF1, Boulogne-Billancourt</div>
+      <div class="timeline-desc">• Conception de tableaux de bord interactifs (Power BI / Power Query) pour l'automatisation du suivi des droits et l'analyse des besoins métiers.</div>
+      <div class="timeline-desc">• Élaboration de reportings 360 mensuels et validation de données stratégiques à destination de la régie publicitaire et des comités d’investissement.</div>
+      <div class="timeline-desc">• Extraction, fiabilisation et structuration des bases de données catalogues pour garantir l'intégrité des informations multi-supports.</div>
+      <div class="timeline-tools">Outils : Power BI, Power Query, Excel</div>
+    </div>
+    
+    <div class="timeline-item">
       <div class="timeline-date">01/2024 - 03/2024</div>
       <div class="timeline-title">Analyste de marché (Stage)</div>
       <div class="timeline-subtitle">ISLT, Troyes</div>
@@ -182,7 +192,7 @@ layout: null
     <div class="timeline-item">
       <div class="timeline-date">06/2022 - 09/2022</div>
       <div class="timeline-title">Analyste e-commerce (Stage)</div>
-      <div class="timeline-subtitle">DASH, Abidjan</div>
+      <div class="timeline-subtitle">DASH, Abidjan</div> 
       <div class="timeline-desc">• Analyse des comportements clients pour optimiser les performances marketing.</div>
       <div class="timeline-desc">• Mise en place et suivi de KPI pour le pilotage de la croissance digitale.</div>
       <div class="timeline-tools">Outils : SQL, Excel (Analyse BI)</div>
